@@ -8,6 +8,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+{
+"name": "wariyer",
+"description": "wariyer",
+"ticker": "WIY",
+"homepage": "https://wariyer.com"
+}
+
 ```markdown
 Syntax highlighted code block
 
